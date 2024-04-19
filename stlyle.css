@@ -1,7 +1,7 @@
-#header{
-    background-color:rgb(75, 122, 95);
-    color:aliceblue;
-    font: size 20px; 
-    font-family:'Times New Roman', Times, serif;
+.header{
+font-size: large;
+font-family: 'Times New Roman';
+color:aliceblue;
+background-color: rgba(6, 97, 74, 0.932);
 
 }
