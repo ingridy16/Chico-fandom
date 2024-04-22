@@ -1,6 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppings', sans-serif ;
+}
 .cabeçalho{
 text-align: center;
 font-size:92px;
+display: flex;
+justify-content: space-evenly;
 color:aliceblue;
 background-color: rgba(6, 97, 74, 0.932);
 
