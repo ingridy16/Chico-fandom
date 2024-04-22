@@ -1,4 +1,6 @@
- header{
+.cabeçalho{
+text-align: center;
+font-size:92px;
 color:aliceblue;
 background-color: rgba(6, 97, 74, 0.932);
 
